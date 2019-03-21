@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Element.h
+vector
+../include/vector
+
+../include/Map.h
+
+../include/QSort.h
+
+C:/Users/BJYG/Desktop/vc-code-cpp/recommend_pic/src/Element.cpp
+Element.h
+C:/Users/BJYG/Desktop/vc-code-cpp/recommend_pic/src/Element.h
+
+C:/Users/BJYG/Desktop/vc-code-cpp/recommend_pic/src/Map.cpp
+iostream
+C:/Users/BJYG/Desktop/vc-code-cpp/recommend_pic/src/iostream
+Element.h
+C:/Users/BJYG/Desktop/vc-code-cpp/recommend_pic/src/Element.h
+Map.h
+C:/Users/BJYG/Desktop/vc-code-cpp/recommend_pic/src/Map.h
+QSort.h
+C:/Users/BJYG/Desktop/vc-code-cpp/recommend_pic/src/QSort.h
+
+C:/Users/BJYG/Desktop/vc-code-cpp/recommend_pic/src/QSort.cpp
+iostream
+C:/Users/BJYG/Desktop/vc-code-cpp/recommend_pic/src/iostream
+QSort.h
+C:/Users/BJYG/Desktop/vc-code-cpp/recommend_pic/src/QSort.h
+stack
+C:/Users/BJYG/Desktop/vc-code-cpp/recommend_pic/src/stack
+

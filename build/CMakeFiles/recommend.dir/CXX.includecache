@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Map.h
+
+C:/Users/BJYG/Desktop/vc-code-cpp/recommend_pic/librecommend.cpp
+fstream
+C:/Users/BJYG/Desktop/vc-code-cpp/recommend_pic/fstream
+librecommend.h
+C:/Users/BJYG/Desktop/vc-code-cpp/recommend_pic/librecommend.h
+Map.h
+C:/Users/BJYG/Desktop/vc-code-cpp/recommend_pic/Map.h
+
+C:/Users/BJYG/Desktop/vc-code-cpp/recommend_pic/librecommend.h
+
